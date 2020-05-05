@@ -54,7 +54,7 @@ flutter test
 
 👤 **kalid Abderhuman**
 
-* Github: [@kalid_Abderhuman](https://github.com/kamnass)
+* Github: [@kalidAbderhuman](https://github.com/kamnass)
 
 ## Show your support
 
