@@ -52,9 +52,9 @@ flutter test
 
 ## Author
 
-👤 **Robby Rahmana**
+👤 **kalid Abderhuman**
 
-* Github: [@kalid Abderhuman](https://github.com/kamnass)
+* Github: [@kalid_Abderhuman](https://github.com/kamnass)
 
 ## Show your support
 
